@@ -56,7 +56,7 @@ export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/
 
 11. core-site.xml          (..open the file in hadoop folder)
 
-<configuration>
+.. <configuration>
     <property>
         <name>fs.defaultFS</name>
         <value>hdfs://localhost:9000</value>
@@ -65,7 +65,7 @@ export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/
         <name>hadoop.tmp.dir</name>
         <value>/home/__name__/tmp</value>
     </property>
-</configuration>
+</configuration> .. 
 
 
 12. hdfs-site.xml         (..open the file in hadoop folder)

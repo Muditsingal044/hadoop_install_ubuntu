@@ -4,4 +4,4 @@
 
 #### Hadoop Installation In Ubuntu
 
-https://drive.google.com/file/d/1oB6w8kO80gmOoOwsZdUI0xGGoPOYF_Cs/view?usp=sharing
+https://drive.google.com/file/d/1d6V6jjuT5kY_oQKRubiKUag-h7o_Ectb/view?usp=sharing
